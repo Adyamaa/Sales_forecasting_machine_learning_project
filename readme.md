@@ -1,1 +1,0 @@
-## Historical sales data for 45 stores of a Retail chain located in different regions is provided. Each store contains a number of departments. The task is to find the best fitting model to predict the department-wide sales for each store.
